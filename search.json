@@ -14,10 +14,24 @@
     "text": "Bienvenu sur le site internet des élèves de la formation des Bonnes pratiques pour une recherche reproductible en écologie numérique organisée par le FRB-Cesab et GDR-EcoStat.\n\nParticipants"
   },
   {
-    "objectID": "Photos.html",
-    "href": "Photos.html",
+    "objectID": "Photos.html#léquipe",
+    "href": "Photos.html#léquipe",
     "title": "Photos",
-    "section": "",
-    "text": "Quelques photos de la formation ;)\n##L’équipe:\n\n##Le matos:\n\n##Plus à venir!!"
+    "section": "L’équipe:",
+    "text": "L’équipe:"
+  },
+  {
+    "objectID": "Photos.html#le-matos",
+    "href": "Photos.html#le-matos",
+    "title": "Photos",
+    "section": "Le matos:",
+    "text": "Le matos:"
+  },
+  {
+    "objectID": "Photos.html#plus-à-venir",
+    "href": "Photos.html#plus-à-venir",
+    "title": "Photos",
+    "section": "Plus à venir!!",
+    "text": "Plus à venir!!"
   }
 ]
