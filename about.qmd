@@ -2,9 +2,9 @@
 title: "about"
 ---
 
-![](data/logo_github.png){width="50"}
+
 
 Contact github des créateurs :\
-Estelle Billard\
-marinebnt\
-TomBockel
+![](data/logo_github.png){width="30"} Estelle Billard\
+![](data/logo_github.png){width="30"} marinebnt\
+![](data/logo_github.png){width="30"} TomBockel
