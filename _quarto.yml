@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Livre d'or formation FRB-Cesab / GdR EcoStat"
+  title: "Livre d'or formation FRB-Cesab/GdR EcoStat"
   navbar:
     left:
       - href: index.qmd
