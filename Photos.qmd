@@ -4,12 +4,12 @@ title: "Photos"
 
 ### Quelques photos de la formation ;)
 
-##L'équipe:
+## L'équipe:
 
 ![](data/photo1.jpg)
 
-##Le matos:
+## Le matos:
 
 ![](data/photo2.jpg)
 
-##Plus à venir!!
+## Plus à venir!!
