@@ -2,8 +2,8 @@
 title: "Photos"
 ---
 
-About this site
+Quelques photos de la formation ;)
 
-```{r}
-1 + 1
-```
+![](https://pbs.twimg.com/media/FipLMU8XwAEshxg?format=jpg&name=4096x4096)
+
+Plus à venir!!
