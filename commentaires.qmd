@@ -14,13 +14,17 @@ listing:
 Posts
 :::
 
+::: panel-tabset
 Trop bien cette formation! par contre ca sent un peu le geek.. :)
+:::
 
+::: panel-tabset
 Je suis d'accord je reviendrai! les cookies en plus...
+:::
 
-
+::: panel-tabset
 Vive les commits ...
-
+:::
 
 ::: panel-tabset
 Tweets from @GDR_Ecostat: href="https://twitter.com/intent/tweet?button_hashtag=CESAB&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false"\>Tweet #CESAB</a>
@@ -28,5 +32,4 @@ Tweets from @GDR_Ecostat: href="https://twitter.com/intent/tweet?button_hashtag=
 ```{=html}
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
-"
 :::
