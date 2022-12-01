@@ -8,7 +8,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - commentaires.qmd
+      - Photos.qmd
+     
 format:
   html:
     theme: cosmo
