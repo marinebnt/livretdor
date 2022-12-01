@@ -2,8 +2,14 @@
 title: "Photos"
 ---
 
-Quelques photos de la formation ;)
+## Quelques photos de la formation ;)
 
-![](https://pbs.twimg.com/media/FipLMU8XwAEshxg?format=jpg&name=4096x4096)
+L'équipe:
+
+![](data/photo1.jpg)
+
+Le matos:
+
+![](data/photo2.jpg)
 
 Plus à venir!!
