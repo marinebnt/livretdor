@@ -11,5 +11,4 @@ Bienvenu sur le site internet des élèves de la formation des *Bonnes pratiques
 ::: panel-tabset
 ## Participants
 
-## Photos
 :::
