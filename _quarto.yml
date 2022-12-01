@@ -12,7 +12,7 @@ website:
      
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
     toc: true
 
