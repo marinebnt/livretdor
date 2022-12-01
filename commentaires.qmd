@@ -1,9 +1,16 @@
 ---
 title: "Commentaires"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
-About this site
+*Pour laisser un petit mot sur ce livre d'or c'est par ici :* ![](livre.png)
 
-```{r}
-1 + 1
-```
+::: panel-tabset
+## Commentaires
+
+
+:::
