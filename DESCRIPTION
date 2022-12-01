@@ -12,7 +12,7 @@ Description: A paragraph providing a full description of the project (on
     several lines...)
 URL: https://github.com/Esbillard/livretdor
 BugReports: https://github.com/Esbillard/livretdor/issues
-License: {{license}}
+License: CC0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.2

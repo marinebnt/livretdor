@@ -1,0 +1,10 @@
+---
+title: "about"
+---
+
+![](data/logo_github.png){width="50"}
+
+Contact github des créateurs :\
+Estelle Billard\
+marinebnt\
+TomBockel
