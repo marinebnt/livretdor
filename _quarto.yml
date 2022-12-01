@@ -9,6 +9,12 @@ website:
         text: Page d'acceuil
       - commentaires.qmd
       - Photos.qmd
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: LICENSE.md
      
 format:
   html:
