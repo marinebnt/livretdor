@@ -4,13 +4,10 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
 ---
 
 *Pour laisser un petit mot sur ce livre d'or c'est par ici :* ![](livre.png)
 
 ::: panel-tabset
 ## Commentaires
-
-
 :::
