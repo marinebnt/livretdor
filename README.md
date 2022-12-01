@@ -1,7 +1,6 @@
 ---
 title: "README"
 author: "marine"
-format: html
 editor: visual
 lang: fr
 ---

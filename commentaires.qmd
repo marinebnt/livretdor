@@ -12,14 +12,17 @@ listing:
 Posts
 :::
 
-<<<<<<< HEAD
-=======
+
 
 Trop bien cette formation! par contre ca sent un peu le geek.. :)
 
 
->>>>>>> refs/remotes/origin/main
+Je suis d'accord je reviendrai! les cookies en plus...
+
+
+
 ::: panel-tabset
 Tweets from @GDR_Ecostat href="https://twitter.com/hashtag/GDR_Ecostat?src=hashtag_click"
 :::
+
 
