@@ -6,8 +6,8 @@ listing:
   type: default
 ---
 
-*Pour laisser un petit mot sur ce livre d'or c'est par ici :* ![](livre.png)
+*Pour laisser un petit mot sur le livre d'or c'est par ici :* ![](livre.png){width="219"}
 
 ::: panel-tabset
-## Commentaires
+Posts
 :::
