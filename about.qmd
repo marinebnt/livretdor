@@ -21,3 +21,7 @@ Les super organisateurs :\
 ![](data/logo_github.png){width="30"} [François GUILHAUMON (IRD Entropie)](https://github.com/fguilhaumon)
 
 ![](data/logo_github.png){width="30"} [Aurélie SIBERCHICOT (UCBL LBBE)]()
+
+![](data/logo_github.png){width="30"}![](data/logo_github.png){width="30"}
+
+https://github.com/victorleitejardim/bgplot/raw/main/man/figures/package-sticker.png
