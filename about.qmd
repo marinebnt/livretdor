@@ -21,3 +21,9 @@ Les supers organisateurs de la formation :\
 ![](data/logo_github.png){width="30"} [François GUILHAUMON (IRD Entropie)](https://github.com/fguilhaumon)
 
 ![](data/logo_github.png){width="30"} [Aurélie SIBERCHICOT (UCBL LBBE)]()
+
+Les collaborateurs :\
+
+![](data/logo_github.png){width="30"}![](data/logo_bgplot.png){width="30"}  
+
+
