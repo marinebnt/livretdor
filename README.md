@@ -1,6 +1,6 @@
-![](data/welcome2.png)![](data/logo_tout_fondvert.png)
+![](data/welcome2.png){width="547"}![](data/logo_tout_fondvert.png)
 
-Bienvenu.e sur le site internet des élèves du FRB-Cesab et du GDR-EcoStat. Notre objectif est de faire des retour aux organisteurs pour rendre encore plus géniales les prochaines éditions de la formation !
+Bienvenu.e sur le site internet des élèves du FRB-Cesab et du GDR-EcoStat. Notre objectif est de faire des retours aux organisateurs pour rendre encore plus géniales les prochaines éditions de la formation !
 
 Pour ajouter ton commentaire au livret d'or, voici les étapes à suivre :
 
