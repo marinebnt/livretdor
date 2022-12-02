@@ -7,9 +7,10 @@ website:
   navbar:
     right:
       - href: index.qmd
-      - commentaires.qmd
-      - Photos.qmd
-      - Video.qmd
+      - href: commentaires.qmd
+        logo: ![](data/logo_commentaires.png)
+      - href: Photos.qmd
+      - href: Video.qmd
 
   page-footer:
     center: 
