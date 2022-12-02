@@ -1,6 +1,6 @@
 ![](data/welcome2.png)![](data/logo_tout_fondvert.png)
 
-Bienvenu.e sur le site internet des élèves du FRB-Cesab et du GDR-EcoStat. Notre objectif est de faire des retours aux organisateurs pour rendre encore plus géniales les prochaines éditions de la formation ! Tu peux partager ton ressenti sur la formation avec un petit commentaire. Tu peux aussi mettre en ligne ton projet GIT pour partager le résultat de cette belle semaine.
+Bienvenu.e sur le [site internet](https://marinebnt.github.io/livretdor/) des élèves du FRB-Cesab et du GDR-EcoStat. Notre objectif est de faire des retours aux organisateurs pour rendre encore plus géniales les prochaines éditions de la formation ! Tu peux partager ton ressenti sur la formation avec un petit commentaire. Tu peux aussi mettre en ligne ton projet GIT pour partager le résultat de cette belle semaine.
 
 Pour ajouter ton commentaire au livret d'or, voici les étapes à suivre :
 
@@ -10,7 +10,7 @@ Pour ajouter ton commentaire au livret d'or, voici les étapes à suivre :
 
 3.  **Modifier** le document `commentaires.qmd` directement sur github, en y mettant ton superbe avis sur la formation (positif et/ou négatif, tout est bienvenu). N'oublie pas de bien nous préciser ton alias !\
     Aide : Les commentaires se trouvent dans la section délimitée par :\
-    `::: panel-tabset`\
+    `::: {.callout-note icon="false"}`\
     `## Posts`\
     *`Commentaires`*\
     `:::`
@@ -26,7 +26,7 @@ De la même manière, pour partager ton git contenant ton travail :
 3.  **Modifier** le document `index.qmd` directement sur github, en y mettant le lien vers ton site internet dans la section suivante et de la manière suivante :\
     `::: {.callout-note icon="false"}`\
     `## Projets`\
-    `[le projet de nom de votre équipe](urldeversprojet)`\
+    `[le projet de nom de votre équipe](urlversvotreprojet)`\
     `:::`
 
 4.  **Enregistrer** tes modifications locales sur github.

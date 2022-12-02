@@ -1,14 +1,13 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.2.262">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="marine">
 
-<title>.Qmd</title>
+<title>readme</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -44,39 +43,35 @@ ul.task-list li input[type="checkbox"] {
 
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">.Qmd</h1>
-</div>
 
 
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Auteur·rice</div>
-    <div class="quarto-title-meta-contents">
-             <p>marine </p>
-          </div>
-  </div>
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<p>Bienvenu sur le site internet des élèves du FRB-Cesab et du GDR-EcoStat. Notre objectif est de faire des retour aux organisteurs pour rendre encore plus géniales les prochaines éditions de la formation !</p>
+<p><img src="data/welcome2.png" class="img-fluid"><img src="data/logo_tout_fondvert.png" class="img-fluid"></p>
+<p>Bienvenu.e sur le <a href="https://marinebnt.github.io/livretdor/" class="uri">site internet</a> des élèves du FRB-Cesab et du GDR-EcoStat. Notre objectif est de faire des retours aux organisateurs pour rendre encore plus géniales les prochaines éditions de la formation ! Tu peux partager ton ressenti sur la formation avec un petit commentaire. Tu peux aussi mettre en ligne ton projet GIT pour partager le résultat de cette belle semaine.</p>
 <p>Pour ajouter ton commentaire au livret d’or, voici les étapes à suivre :</p>
 <ol type="1">
+<li><p>Choisir un <strong>alias</strong>, ca sera le nom sous lequel tu seras identifié.e sur le site internet</p></li>
 <li><p><strong>Forker</strong> la branche du dossier du livret d’or</p></li>
-<li><p><strong>Cloner</strong> le dossier localement chez toi</p></li>
-<li><p><strong>Modifier</strong> le document <code>commentaires.qmd</code> avec ton superbe avis sur la formation (positif et/ou négatif, tout est bienvenu)</p></li>
-<li><p><strong>Enregistrer</strong> tes modifications locales sur github</p></li>
+<li><p><strong>Modifier</strong> le document <code>commentaires.qmd</code> directement sur github, en y mettant ton superbe avis sur la formation (positif et/ou négatif, tout est bienvenu). N’oublie pas de bien nous préciser ton alias !<br>
+Aide : Les commentaires se trouvent dans la section délimitée par :<br>
+<code>::: panel-tabset</code><br>
+<code>## Posts</code><br>
+<em><code>Commentaires</code></em><br>
+<code>:::</code></p></li>
 <li><p>Appuyer sur <code>pull request</code> sur le github</p></li>
 </ol>
-<p>On a très hâte de te lire :)</p>
+<p>De la même manière, pour partager ton git contenant ton travail :</p>
+<ol type="1">
+<li><p>Choisir un <strong>alias</strong> pour ton équipe, ce sera le nom sous lequel apparaîtra votre projet.</p></li>
+<li><p><strong>Forker</strong> la branche du dossier du livret d’or, ou bien aller directement sur le dossier forké si c’est déjà fait.</p></li>
+<li><p><strong>Modifier</strong> le document <code>index.qmd</code> directement sur github, en y mettant le lien vers ton site internet dans la section suivante et de la manière suivante :<br>
+<code>::: panel-tabset</code><br>
+<code>## Projets</code><br>
+<code>[le projet de nom de votre équipe](urldeversprojet)</code><br>
+<code>:::</code></p></li>
+<li><p><strong>Enregistrer</strong> tes modifications locales sur github.</p></li>
+<li><p>Appuyer sur <code>pull request</code> sur le github</p></li>
+</ol>
+<p>On a très hâte de te lire &lt;3</p>
 
 </main>
 <!-- /main column -->
@@ -120,12 +115,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copié");
+    button.setAttribute("title", "Copied!");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copié");
+      button.setAttribute("data-bs-title", "Copied!");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
