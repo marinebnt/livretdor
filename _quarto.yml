@@ -6,17 +6,10 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: Page d'acceuil
-      - href: commentaires.qmd
-        text: Commentaires
-        logo : ![](data/logo_commentaires.png)
-      - href : Photos.qmd
-        text : Photos
-        logo : 
-      - href : Video.qmd
-        text : 
-        logo : 
-        
+      - commentaires.qmd
+      - Photos.qmd
+      - Video.qmd
+
   page-footer:
     center: 
       - text: "About"
