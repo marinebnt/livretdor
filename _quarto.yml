@@ -27,7 +27,7 @@ website:
      
 format:
   html:
-    theme: sketchy
+    theme: morph
     css: styles.css
     toc: true
 
