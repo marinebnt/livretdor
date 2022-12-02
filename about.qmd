@@ -2,8 +2,6 @@
 title: "about"
 ---
 
-
-
 Contact github des créateurs :\
 ![](data/logo_github.png){width="30"} Estelle Billard\
 ![](data/logo_github.png){width="30"} marinebnt\

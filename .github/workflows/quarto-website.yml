@@ -1,14 +1,15 @@
 on:
   push:
     branches: main
-#  pull_request:
-#    branches: main
+ pull_request:
 
 name: Build and Deploy
 
 jobs:
   build:
     runs-on: ${{ matrix.config.os }}
+    permissions:
+      contents: write
 
     name: ${{ matrix.config.os }} (${{ matrix.config.r }})
 
