@@ -6,24 +6,17 @@ listing:
   type: default
 ---
 
-![](data/livre.png){fig-align="center" width="121"}
-
-*Pour laisser un petit mot sur le livre d'or c'est par ici :*
+![](data/livre.png){width="84"}*Pour laisser un petit mot sur le livre d'or c'est par ici :*
 
 ::: panel-tabset
 ## Posts
 
 Trop bien cette formation! par contre ca sent un peu le geek.. :) - *Thomas*
 
-Je suis d'accord je reviendrai! les cookies en plus... 
+Je suis d'accord je reviendrai! les cookies en plus...
 
 Vive les commits ...
-
-
 :::
-
-
-
 
 ::: panel-tabset
 ## Tweets from @GDR_Ecostat:
