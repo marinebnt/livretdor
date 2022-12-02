@@ -10,10 +10,10 @@ Pour ajouter ton commentaire au livret d'or, voici les étapes à suivre :
 
 3.  **Modifier** le document `commentaires.qmd` directement sur github, en y mettant ton superbe avis sur la formation (positif et/ou négatif, tout est bienvenu). N'oublie pas de bien nous préciser ton alias !\
     Aide : Les commentaires se trouvent dans la section délimitée par :\
-    `::: panel-tabset` 
-    `## Posts` 
-      *`Commentaires`* 
-     `:::`
+    `::: panel-tabset`   
+    `## Posts`   
+      *`Commentaires`*   
+     `:::`  
 
 4.  Appuyer sur `pull request` sur le github
 
@@ -24,10 +24,10 @@ De la même manière, pour partager ton git contenant ton travail :
 2.  **Forker** la branche du dossier du livret d'or, ou bien aller directement sur le dossier forké si c'est déjà fait.
 
 3.  **Modifier** le document `index.qmd` directement sur github, en y mettant le lien vers ton site internet dans la section suivante et de la manière suivante : \
-    `::: panel-tabset` 
-    `## Projets` 
-      `[le projet de nom de votre équipe](urldeversprojet)` 
-    `:::`
+    `::: panel-tabset`   
+    `## Projets`   
+      `[le projet de nom de votre équipe](urldeversprojet)`   
+    `:::`  
 
 4.  **Enregistrer** tes modifications locales sur github.
 
