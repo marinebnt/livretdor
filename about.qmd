@@ -10,7 +10,7 @@ Contact github des créateurs :\
 
 ![](data/logo_github.png){width="30"} [TomBockel](https://github.com/TomBockel)
 
-Les supers organisateurs de la formation :\
+Les supers intervenants et organisateurs de la formation :\
 
 ![](data/logo_github.png){width="30"} [Iago BONNICI (CNRS ISEM)](https://github.com/iago-lito)
 
@@ -24,6 +24,4 @@ Les supers organisateurs de la formation :\
 
 Les collaborateurs :\
 
-![](data/logo_bgplot.png){width="50"}  
-
-
+![](data/logo_bgplot.png){width="50"}
