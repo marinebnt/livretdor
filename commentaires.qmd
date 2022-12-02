@@ -4,26 +4,24 @@ title: "Commentaires"
 
 ![](data/livre.png){width="84"}*Pour laisser un petit mot sur le livre d'or c'est par ici :*
 
-::: panel-tabset
+::: {.callout-note icon=false}
 ## 2022
-
 Trop bien cette formation! par contre ca sent un peu le geek.. :)... *Thomas*
 
 Je suis d'accord je reviendrai! les cookies en plus...
-
 Vive les commits ...
 
 Je suis d'accord je reviendrai! les cookies en plus... *Anonyme*
 
 Vive les commits ... *Anonyme*
 
-Partagez vos super idées de github sur ce site (download auto de podcast par exemple ;) ) *Anonyme*
+Partagez vos super idées de github sur ce site (download auto de podcast par exemple ;) ) *Anonyme* 
 :::
 
-::: panel-tabset
+::: {.callout-note icon=false}
 ## 2021
 :::
 
-::: panel-tabset
+::: {.callout-note icon=false}
 ## 2020
 :::
