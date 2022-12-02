@@ -3,6 +3,9 @@ title: "about"
 ---
 
 Contact github des créateurs :\
-![](data/logo_github.png){width="30"} Estelle Billard\
-![](data/logo_github.png){width="30"} marinebnt\
-![](data/logo_github.png){width="30"} TomBockel
+
+![](data/logo_github.png){width="30"} [Estelle Billard](https://github.com/Esbillard)\
+
+![](data/logo_github.png){width="30"} [marinebnt](https://github.com/marinebnt)
+
+![](data/logo_github.png){width="30"} [TomBockel](https://github.com/TomBockel)
