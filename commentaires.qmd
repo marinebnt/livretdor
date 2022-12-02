@@ -1,9 +1,5 @@
 ---
 title: "Commentaires"
-links:
-    - icon: commentaires
-      text: Commentaires
-      href: ![](data/logo_commentaires.png)
 ---
 
 ![](data/livre.png){width="84"}*Pour laisser un petit mot sur le livre d'or c'est par ici :*
