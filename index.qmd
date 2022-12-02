@@ -4,7 +4,7 @@ title: "Livre d'or"
 
 ![](data/logo_tout_fondvert.png){fig-align="center"}
 
-Bienvenu sur le site internet des élèves de la formation des *Bonnes pratiques pour une recherche reproductible en écologie numérique* organisée par le FRB-Cesab et GDR-EcoStat.
+Bienvenue sur le site internet des élèves de la formation des *Bonnes pratiques pour une recherche reproductible en écologie numérique* organisée par le FRB-Cesab et GDR-EcoStat.
 
 Vous adorez coder ? Vous aimez le challenge ? Cette formation explique la gestion du compendium, l'utilisation de GIT, GITHUB, DOCKER ainsi que des packages géniaux de R (`renv`, `rcompendium`, `rtargets`). Autant de notions qui semblent obscures aux premiers abords et qui sont maîtrisées en fin de formation !
 
