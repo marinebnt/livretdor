@@ -8,7 +8,6 @@ website:
     right:
       - href: index.qmd
       - href: commentaires.qmd
-        logo: ![](data/logo_commentaires.png)
       - href: Photos.qmd
       - href: Video.qmd
 
