@@ -7,6 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Page d'acceuil
+    right: 
       - commentaires.qmd
       - Photos.qmd
       - Video.qmd
