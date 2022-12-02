@@ -15,6 +15,9 @@ Pour partager sur ce site ton avis et/ou le résultat de ton travail de la semai
 
 **2022**
 
+Marine, Estelle, Thomas, Thomas, Victor, Loic, Ulysse, Valentine, karim, romain, baptiste, arzhela, edel, liz, marie-caroline, lise
+
+
 **2021**
 
 **2020**
@@ -28,6 +31,7 @@ Pour partager sur ce site ton avis et/ou le résultat de ton travail de la semai
 [Livre d'or](https://github.com/marinebnt/livretdor)
 
 [bgplot](https://github.com/victorleitejardim/bgplot)
+
 
 **2021**
 
