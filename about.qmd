@@ -18,6 +18,6 @@ Les super organisateurs :\
 
 ![](data/logo_github.png){width="30"} [Brunno OLIVEIRA (FRB-Cesab)]()
 
-![](data/logo_github.png){width="30"} [François GUILHAUMON (IRD Entropie)]()
+![](data/logo_github.png){width="30"} [François GUILHAUMON (IRD Entropie)](https://github.com/fguilhaumon)
 
 ![](data/logo_github.png){width="30"} [Aurélie SIBERCHICOT (UCBL LBBE)]()
