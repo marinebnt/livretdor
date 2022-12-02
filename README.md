@@ -26,7 +26,7 @@ De la même manière, pour partager ton git contenant ton travail :
 3.  **Modifier** le document `index.qmd` directement sur github, en y mettant le lien vers ton site internet dans la section suivante et de la manière suivante :\
     `::: {.callout-note icon="false"}`\
     `## Projets`\
-    `[le projet de nom de votre équipe](urldeversprojet)`\
+    `[le projet de nom de votre équipe](urlversvotreprojet)`\
     `:::`
 
 4.  **Enregistrer** tes modifications locales sur github.
