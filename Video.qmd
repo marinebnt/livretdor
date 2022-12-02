@@ -1,0 +1,7 @@
+---
+title: "Une petite video"
+---
+
+### La reproductibilite?
+
+{{< video https://youtu.be/s3JldKoA0zw >}}
