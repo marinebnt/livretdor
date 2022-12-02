@@ -6,26 +6,24 @@ listing:
   type: default
 ---
 
-![](livre.png){width="219"}
+![](livre.png){fig-align="center" width="121"}
 
 *Pour laisser un petit mot sur le livre d'or c'est par ici :*
 
 ::: panel-tabset
 ## Posts
-:::
 
-::: panel-tabset
-Trop bien cette formation! par contre ca sent un peu le geek.. :)
-:::
+Trop bien cette formation! par contre ca sent un peu le geek.. :) - *Thomas*
 
-::: panel-tabset
-## 
 Je suis d'accord je reviendrai! les cookies en plus...
+
+Vive les commits ...
+
+
 :::
 
-::: panel-tabset
-Vive les commits ...
-:::
+
+
 
 ::: panel-tabset
 ## Tweets from @GDR_Ecostat:

@@ -2,11 +2,16 @@
 title: "Livre d'or"
 ---
 
-![](data/logo_tout_fondvert.png)
+![](data/logo_tout_fondvert.png){fig-align="center"}
 
 Bienvenu sur le site internet des élèves de la formation des *Bonnes pratiques pour une recherche reproductible en écologie numérique* organisée par le FRB-Cesab et GDR-EcoStat.
 
 ::: panel-tabset
 ## Participants
 
+**2022**
+
+**2021**
+
+**2020**
 :::
