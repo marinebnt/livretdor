@@ -4,7 +4,7 @@ title: "Photos"
 
 ## Plus à venir!!
 
-::: panel-tabset
+::: {.callout-note icon="false"}
 ## Tweets from @GDR_Ecostat:
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=CESAB&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #CESAB</a>
@@ -23,4 +23,3 @@ title: "Photos"
 ## Le matos:
 
 ![](data/photo2.jpg)
-
