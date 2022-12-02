@@ -27,9 +27,9 @@ Marine, Estelle, Thomas, Thomas, Victor, Loic, Ulysse, Valentine, Karim, Romain,
 
 **2022**
 
-[Livre d'or](https://github.com/marinebnt/livretdor)
+-   [Livre d'or](https://github.com/marinebnt/livretdor)
 
-[bgplot](https://github.com/victorleitejardim/bgplot)
+-   [bgplot](https://github.com/victorleitejardim/bgplot)
 
 **2021**
 
