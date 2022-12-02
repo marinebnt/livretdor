@@ -26,7 +26,7 @@ website:
      
 format:
   html:
-    theme: superhero
+    theme: morph
     css: styles.css
     toc: true
 
