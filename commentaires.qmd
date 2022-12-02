@@ -5,9 +5,9 @@ title: "Commentaires"
 ![](data/livre.png){width="84"}*Pour laisser un petit mot sur le livre d'or c'est par ici :*
 
 ::: panel-tabset
-## Posts
+## Posts 
 
-# 2022
+2022
 
 Trop bien cette formation! par contre ca sent un peu le geek.. :)... *Thomas*
 
