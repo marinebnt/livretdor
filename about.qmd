@@ -12,7 +12,7 @@ Contact github des créateurs :\
 
 Les super organisateurs :\
 
-![](data/logo_github.png){width="30"} [Iago BONNICI (CNRS ISEM)]()\
+![](data/logo_github.png){width="30"} [Iago BONNICI (CNRS ISEM)](https://github.com/iago-lito)
 
 ![](data/logo_github.png){width="30"} [Nicolas CASAJUS (FRB-Cesab)](https://github.com/ahasverus)
 
