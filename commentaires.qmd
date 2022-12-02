@@ -6,7 +6,7 @@ listing:
   type: default
 ---
 
-![](livre.png){fig-align="center" width="121"}
+![](data/livre.png){fig-align="center" width="121"}
 
 *Pour laisser un petit mot sur le livre d'or c'est par ici :*
 
@@ -15,7 +15,7 @@ listing:
 
 Trop bien cette formation! par contre ca sent un peu le geek.. :) - *Thomas*
 
-Je suis d'accord je reviendrai! les cookies en plus...
+Je suis d'accord je reviendrai! les cookies en plus... 
 
 Vive les commits ...
 
