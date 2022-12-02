@@ -25,6 +25,10 @@ Pour partager sur ce site ton avis et/ou le résultat de ton travail de la semai
 
 **2022**
 
+[Livre d'or](https://github.com/marinebnt/livretdor)
+
+[bgplot](https://github.com/victorleitejardim/bgplot)
+
 **2021**
 
 **2020**
