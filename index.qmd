@@ -11,7 +11,9 @@ Vous adorez coder ? Vous aimez le challenge ? Cette formation explique la gestio
 Pour partager sur ce site ton avis et/ou le résultat de ton travail de la semaine, accède à notre [GITHUB](https://github.com/marinebnt/livretdor) :)
 
 Le lien vers les ressources de la formation :\
-\[Site de la formation\](https://rdatatoolbox.github.io/), \[github de la structure d'accueil\](https://github.com/FRBCesab), \[github de la formation\](https://github.com/rdatatoolbox).
+[Site de la formation](https://rdatatoolbox.github.io/),  
+[github de la structure d'accueil](https://github.com/FRBCesab),  
+[github de la formation](https://github.com/rdatatoolbox).\  
 
 ::: {.callout-note icon="false"}
 ## Participants
