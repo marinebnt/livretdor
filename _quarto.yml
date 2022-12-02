@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Livre d'or formation FRB-Cesab/GdR EcoStat"
+
   navbar:
     left:
       - href: index.qmd
@@ -28,3 +29,4 @@ editor: visual
 
 about:
   template: jolla
+
