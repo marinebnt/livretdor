@@ -10,7 +10,7 @@ Contact github des créateurs :\
 
 ![](data/logo_github.png){width="30"} [TomBockel](https://github.com/TomBockel)
 
-Les super organisateurs :\
+Les supers organisateurs :\
 
 ![](data/logo_github.png){width="30"} [Iago BONNICI (CNRS ISEM)](https://github.com/iago-lito)
 
