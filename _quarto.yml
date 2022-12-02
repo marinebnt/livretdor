@@ -23,5 +23,8 @@ format:
     css: styles.css
     toc: true
 
+
 editor: visual
 
+about:
+  template: jolla
