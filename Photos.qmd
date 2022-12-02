@@ -2,16 +2,6 @@
 title: "Photos"
 ---
 
-### Quelques photos de la formation ;)
-
-## L'équipe:
-
-![](data/photo1.jpg)
-
-## Le matos:
-
-![](data/photo2.jpg)
-
 ## Plus à venir!!
 
 ::: panel-tabset
@@ -23,3 +13,14 @@ title: "Photos"
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
 :::
+
+### Quelques photos de la formation ;)
+
+## L'équipe:
+
+![](data/photo1.jpg)
+
+## Le matos:
+
+![](data/photo2.jpg)
+
