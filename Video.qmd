@@ -4,4 +4,5 @@ title: "Une petite video"
 
 ### La reproductibilite?
 
-{{< video https://youtu.be/s3JldKoA0zw >}}
+< video https://youtu.be/s3JldKoA0zw >}}
+[](https://youtu.be/s3JldKoA0zw){width=50}

@@ -21,7 +21,7 @@ website:
      
 format:
   html:
-    theme: superhero
+    theme: sketchy
     css: styles.css
     toc: true
 
