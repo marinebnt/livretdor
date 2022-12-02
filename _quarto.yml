@@ -3,13 +3,18 @@ project:
 
 website:
   title: "Livre d'or formation FRB-Cesab/GdR EcoStat"
+  image: "data/livre.png"
+  page-navigation: true
 
   navbar:
     right:
       - href: index.qmd
       - href: commentaires.qmd
-      - href: Photos.qmd
-      - href: Video.qmd
+        menu: 
+          - href: Photos.qmd
+            text: Photos
+          - href: Video.qmd
+            text: Videos
 
   page-footer:
     center: 
