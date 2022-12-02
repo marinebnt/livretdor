@@ -8,9 +8,9 @@ Bienvenu sur le site internet des élèves de la formation des *Bonnes pratiques
 
 Vous adorez coder ? Vous aimez le challenge ? Cette formation explique la gestion du compendium, l'utilisation de GIT, GITHUB, DOCKER ainsi que des packages géniaux de R (`renv`, `rcompendium`, `rtargets`). Autant de notions qui semblent obscures aux premiers abords et qui sont maîtrisées en fin de formation !
 
-Pour partager sur ce site ton avis et/ou le résultat de ton travail de la semaine, accède à notre [GITHUB](https://github.com/marinebnt/livretdor) :) 
+Pour partager sur ce site ton avis et/ou le résultat de ton travail de la semaine, accède à notre [GITHUB](https://github.com/marinebnt/livretdor) :)
 
-::: panel-tabset
+::: {.callout-note icon="false"}
 ## Participants
 
 **2022**
@@ -20,7 +20,7 @@ Pour partager sur ce site ton avis et/ou le résultat de ton travail de la semai
 **2020**
 :::
 
-::: panel-tabset
+::: {.callout-note icon="false"}
 ## Projets
 
 **2022**
