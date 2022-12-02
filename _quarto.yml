@@ -15,7 +15,6 @@ website:
       - text: Medias
         menu: 
           - href: Photos.qmd
-            text: "Photos"
           - href: Video.qmd
             text: "Videos"
   page-footer:
