@@ -11,13 +11,14 @@ listing:
 ::: panel-tabset
 ## Posts
 
-Trop bien cette formation! par contre ca sent un peu le geek.. :) - *Thomas*
+Trop bien cette formation! par contre ca sent un peu le geek.. :)... 
+*Thomas*
 
-<<<<<<< HEAD
+
 Je suis d'accord je reviendrai! les cookies en plus...
 
 Vive les commits ...
-=======
+
 Je suis d'accord je reviendrai! les cookies en plus...   *Anonyme*
 
 Vive les commits ...  *Anonyme*
@@ -25,8 +26,9 @@ Vive les commits ...  *Anonyme*
 Partagez vos super idées de github sur ce site (download auto de podcast par exemple ;) )  *Anonyme*
 
 
->>>>>>> 61d2897c3857a0abfd93cdb1aca1ee3bb509b2eb
 :::
+
+
 
 ::: panel-tabset
 ## Tweets from @GDR_Ecostat:
